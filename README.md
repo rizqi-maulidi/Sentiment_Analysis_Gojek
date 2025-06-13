@@ -194,18 +194,18 @@ pred_labels = label_encoder.inverse_transform(pred_classes)
 ## Visualisasi
 
 ### 1. Word Cloud
-- Word cloud per kategori sentimen (positif, negatif, netral)
+- Word cloud per kategori sentimen (positif, negatif, netral)  
 ![image](https://github.com/user-attachments/assets/4dbe158e-3977-4a65-a315-d0101b36c4c1)
 
 
 ### 2. Data Analysis
-- Distribusi kelas sentimen
+- Distribusi kelas sentimen  
 ![image](https://github.com/user-attachments/assets/ba0fb5e9-85ff-42ba-9ceb-274bca9ed65b)
 
-- Distribusi panjang teks
+- Distribusi panjang teks  
 ![image](https://github.com/user-attachments/assets/a88574fc-a877-4b50-9597-a3d7e789ae03)
 
-- Kata-kata paling sering muncul (berdasarkan TF-IDF)
+- Kata-kata paling sering muncul (berdasarkan TF-IDF)  
 ![image](https://github.com/user-attachments/assets/cabe71e9-bf11-4ff5-948c-65bb88b27f2d)
 
 
