@@ -214,7 +214,7 @@ pred_labels = label_encoder.inverse_transform(pred_classes)
 | Model   | Arsitektur      | Ekstraksi Fitur  | Pembagian Data | Akurasi Training | Akurasi Testing |
 |---------|------------------|------------------|----------------|------------------|-----------------|
 | Model 1 | LSTM             | TF-IDF           | 70/30          | 96.66%           | 91.62%          |
-| Model 2 | Bidirectional LSTM | Word2Vec       | 80/20          | 85.86%           | 83.56%          |
+| Model 2 | LSTM | Word2Vec       | 80/20          | 85.86%           | 83.56%          |
 | Model 3 | Transformer      | Embedding        | 80/20          | 97.63%           | 92.41%          |
 
 ## Kesimpulan
