@@ -1,4 +1,5 @@
 # Dokumentasi Analisis Sentimen Ulasan Gojek
+![image](https://github.com/user-attachments/assets/f8d67e74-e00a-4835-84ee-18cb486ee4ac)
 
 ## Deskripsi Proyek
 
